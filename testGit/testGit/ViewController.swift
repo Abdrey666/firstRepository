@@ -17,6 +17,10 @@ class ViewController: UIViewController {
         
         
          print("image")
+        
+        
+        
+        print("why")
         // Do any additional setup after loading the view.
     }
 
