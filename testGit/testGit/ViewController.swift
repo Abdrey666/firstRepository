@@ -21,6 +21,8 @@ class ViewController: UIViewController {
         
         
         print("why")
+        
+        print("44444")
         // Do any additional setup after loading the view.
     }
 
